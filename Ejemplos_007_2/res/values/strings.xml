@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Preferencias_Actividad!</string>
+    <string name="app_name">Ejemplos_007_2</string>
+    <string name="pref_color_title">Aspecto</string>
+    <string name="pref_color_summary">Color del título</string>
+    <string name="pref_color_dialogtitle">Elige el color</string>
+</resources>

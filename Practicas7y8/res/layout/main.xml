@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="0,1,2" >
+
+    <FrameLayout
+        android:id="@+id/FrameLayout1"
+        android:layout_weight="0.36"
+        android:background="#FFFFFF"
+         >
+
+       
+        <TextView
+            style="@style/texto3"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="150dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp" />
+
+        <TextView
+            style="@style/texto"
+            android:layout_width="75dp"
+            android:layout_height="64dp"
+            android:layout_gravity="left"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="61dp"
+            android:text="@string/a" />
+
+        <TextView
+            style="@style/texto2"
+            android:layout_width="76dp"
+            android:layout_height="64dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="35dp"
+            android:layout_marginTop="61dp"
+            android:text="@string/b" />
+
+        <TextView
+            style="@style/texto1"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="150dp"
+            android:text="@string/res"
+            android:textSize="30dp" />
+    </FrameLayout>
+
+</TableLayout>

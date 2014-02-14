@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practicas17y18</string>
+    <string name="grabar">Grabar Audio</string>
+    <string name="grabando">Grabando</string>
+    <string name="play">Reproduce Audio</string>
+    <string name="pause">Pausa</string>
+    <string name="stop">Parar</string>
+    </resources>

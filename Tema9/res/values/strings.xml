@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tema9</string>
+    <string name="numtelef">Nº Teléfono</string>
+    <string name="enviar">Enviar SMS</string>
+    <string name="texto">Texto</string>
+    <string name="listado">Mensajes Enviados:</string>
+    <string name="llamar">Hacer una Llamada</string>
+</resources>

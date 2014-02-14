@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TiCu</string>
+    <string name="activa">Pulsa para activar TiCu!</string>
+    <string name="config">Desde aquí puedes configurar cómo quieres que funcione TiCu</string>
+    <string name="salir">Salir de TiCu</string>
+    <string name="blue">Marca para usar Auto Bluetooth</string>
+    <string name="wifi">Marca para usar Auto Wifi</string>
+    <string name="datos">Marca para no usar Datos sin Wifi</string>
+</resources>

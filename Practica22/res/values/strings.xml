@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Master.D - Lector de RSS</string>
+    <string name="no_hay_feeds">No hay artículos.</string>
+    <string name="titulo_noticias">Noticias</string>
+    <string name="cargando">Cargando</string>
+    <string name="tituloWidget">MasterD</string>    
+    <string name="acerca_de"><b>Curso Android - Práctica 22</b>\n
+\n
+&#169; 2010 Master.D\n
+Teléfono: 902404140\n\n
+www.masterd.es</string>
+
+</resources>

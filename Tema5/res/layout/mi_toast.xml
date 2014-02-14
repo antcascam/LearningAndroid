@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Aquí es donde se modifica el toast a gusto del consumidor -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toastRaiz"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#7DB5DE"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="72dip"
+        android:layout_height="72dip"
+        android:padding="5dip"
+        android:src="@drawable/donut" />
+
+    <TextView
+        android:id="@+id/texto"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:text="texto"
+        android:textColor="#3B3965" />
+
+</LinearLayout>

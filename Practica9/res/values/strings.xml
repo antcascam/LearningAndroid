@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Práctica 9</string>
+    <string name="name">Práctica 9 - Fecha de Cumpleaños </string>
+    <string name="texto">Fecha de Cumpleaños: </string>
+    <string name="Button">Guardar</string>
+    <string name="texto2">Elija una forma de guardado: </string>
+    <string name="boton3">Introducir Manualmente</string>
+    <string name="boton4">Introducir mediante TimePicker</string>
+    <string name="boton5">Ver fecha guardada actualmente</string>
+    
+</resources>

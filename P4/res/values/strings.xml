@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="texto">Menú Principal</string>
+    <string name="boton1">Botón 1</string>
+    <string name="boton2">Botón 2</string>
+    <string name="app_name">Práctica 4</string>
+    <string name="menu1">Tras el Botón 1</string>
+    <string name="boton3">Acaba con esto ya!</string>
+    <string name="menu2">Tras el Botón 2</string>
+
+</resources>

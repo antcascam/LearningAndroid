@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Practicas7y8Activity!</string>
+    <string name="app_name"></string>
+    <string name="app_name2">Ejercicio06"-"1</string>
+    <string name="app_name3">Marcador</string>
+    <string name="a">Equipo A</string>
+    <string name="res">0 "-" 0</string>
+    <string name="b">Equipo B</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos:</string>
+    <string name="dir">Dirección:</string>
+    <string name="loc">Localidad:</string>
+    <string name="prov">Provincia:</string>
+    <string name="pais">País:</string>
+    
+
+</resources>

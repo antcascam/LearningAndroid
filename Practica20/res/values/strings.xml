@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica20</string>
+    <string name="diasquedan">Días restantes para llegar:</string>
+    <string name="listo">Listo!</string>
+</resources>

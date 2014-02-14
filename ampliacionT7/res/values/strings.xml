@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Propuesta de Ampliacion</string>
+    <string name="hello">Proveedor_de_contenido!</string>
+    <string name="elige">Listado de contactos:</string>
+    <string name="empty">No se han encontrado registros</string>
+</resources>

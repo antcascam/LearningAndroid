@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Esta es la SegundaApp2</string>
+    <string name="app_name">SegundaApp2</string>
+    <string name="salir">Salir</string>
+    <string name="otra">Otra Actividad</string>
+    <string name="otraMas">Otra Actividad (devuelve parámetros)</string>
+    <string name="suma">Suma 2 números</string>
+    <string name="arriba">Introduce el primer número:</string>
+    <string name="abajo">Introduce el segundo número:</string>
+    <string name="botSuma">Suma!</string>
+    <string name="texto2">Práctica 3:</string>
+    <string name="log1">Botón de Log 1</string>
+    <string name="log2">Botón de Log 2</string>
+    <string name="inicioLog1">Aprendiendo Android con MasterD</string>
+    <string name="log3">Finalizar!</string>
+    <string name="inicioLog2">Suma de dos números con log:</string>
+
+</resources>

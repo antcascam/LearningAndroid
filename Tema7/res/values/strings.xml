@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Tema7Activity!</string>
+    <string name="app_name">Datos</string>
+    <string name="texto">Escribe un texto&#8230;</string>
+    
+    <string name="pref_skyn_title">Aspecto</string>
+    <string name="pref_color_title">Color del Título</string>
+    <string name="pref_color_summary">Elige el color</string>
+    <string name="pref_color_dialogtitle">Elige un color</string>
+
+</resources>

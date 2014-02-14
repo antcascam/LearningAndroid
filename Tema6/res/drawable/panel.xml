@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:drawable="@drawable/panel_gris"
+        android:maxLevel="0"/>
+    <item
+        android:drawable="@drawable/panel_rojo"
+        android:maxLevel="1"/>
+    <item
+        android:drawable="@drawable/panel_amarillo"
+        android:maxLevel="2"/>
+    <item
+        android:drawable="@drawable/panel_verde"
+        android:maxLevel="3"/>
+
+</level-list>

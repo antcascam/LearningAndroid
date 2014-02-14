@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Practica5Activity!</string>
+    <string name="nombre_ap">Práctica 5</string>
+    <string name="app_name">Ejercicio 5.1</string>
+    <string name="app_name2">Ejercicio 5.2</string>
+
+</resources>

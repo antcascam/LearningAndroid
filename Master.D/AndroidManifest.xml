@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	package="es.masterd.rss"
+	android:versionCode="1"
+	android:versionName="1.0">
+<application
+	android:icon="@drawable/icon"
+	android:label="@string/app_name"
+	android:name=".MasterdApplication"
+	android:theme="@style/MasterD">
+		<activity android:name=".TitularesActivity"
+			android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		
+	<activity android:name=".NoticiaActivity"
+		android:theme="@style/MasterD.Dialog" />
+	<provider android:name=".db.FeedsProvider"
+	    android:authorities="es.masterd.blog" />
+	
+	
+	<receiver android:name="Widget" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/widget" />
+		</receiver>
+	
+	</application>
+	
+
+<uses-permission android:name="android.permission.INTERNET" />
+</manifest>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:stretchColumns="1" >
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/nombre" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/apellidos" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dir" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loc" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto5"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/prov" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/texto6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pais" />
+
+            <EditText
+                android:id="@+id/idEditText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

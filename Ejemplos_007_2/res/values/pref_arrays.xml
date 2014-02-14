@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_color_entryvalues">
+        <item>#FF6666</item>
+        <item>#6666FF</item>
+        <item>#66FF66</item>
+        <item>#000000</item>
+    </string-array>
+    <string-array name="pref_color_entries">
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Negro</item>
+    </string-array>
+
+</resources>
